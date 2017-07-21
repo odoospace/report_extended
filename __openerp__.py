@@ -2,7 +2,7 @@
 
 {
     'name': 'report_extended',
-    'version': '0.1',
+    'version': '9.0.0.1',
     'author': 'Valentin Lab',
     'category': 'Tools',
     'complexity': 'normal',
